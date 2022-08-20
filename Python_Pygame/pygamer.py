@@ -1,20 +1,21 @@
 import pygame
 from pygame import mixer
 import sys
+import os
 
 
-def start_music():
-    mixer.init()
-    mixer.music.set_volume(0.1)
-    mixer.music.load("elfen_lied.wav")
-    mixer.music.play()
+#def start_music():
+    #mixer.init()
+    #mixer.music.set_volume(0.1)
+    #mixer.music.load("elfen_lied.wav")
+    #mixer.music.play()
 
 
 def start_game():
     pygame.init()
     pygame.display.set_caption('Dumb Game')
-    Icon = pygame.image.load("eric.ico")
-    pygame.display.set_icon(Icon)
+    #Icon = pygame.image.load("eric.ico")
+    #pygame.display.set_icon(Icon)
 
 
 def write_text(string, coordx, coordy, fontSize):
@@ -37,9 +38,11 @@ display = pygame.display.set_mode((1000, 1000))
 clock = pygame.time.Clock()
 color = (155, 0, 0)
 pink = (220, 50, 130)
-image = pygame.image.load("penguin_madagascar.png")
+os.chdir(r'/home/mark/Documents/Games/Games/Python_Pygame')
+image_penguin = open("penguin.png")
+image = pygame.image.load(image_penguin)
 image_final = pygame.transform.scale(image, (350, 350))
-start_music()
+#start_music()
 x = 325
 y = 325
 counter = 0
@@ -78,3 +81,4 @@ while True:
                 pygame.quit()
                 sys.exit()
     write_text(f"seconds: {counter / 20:.0f}", 370, 80, 40)
+    pygame.display.update()
