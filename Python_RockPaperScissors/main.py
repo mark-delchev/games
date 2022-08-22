@@ -1,5 +1,5 @@
 import random
-games = int(input("How many games would you like to play?"))
+games = int(input("How many games would you like to play? "))
 choices = ["rock", "paper", "scissors"]
 player_wins = 0
 computer_wins = 0

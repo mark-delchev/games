@@ -1,0 +1,15 @@
+/home/mark/Documents/Games/Games/C#_RockPaperScissors/main/bin/Debug/net6.0/main
+/home/mark/Documents/Games/Games/C#_RockPaperScissors/main/bin/Debug/net6.0/main.deps.json
+/home/mark/Documents/Games/Games/C#_RockPaperScissors/main/bin/Debug/net6.0/main.runtimeconfig.json
+/home/mark/Documents/Games/Games/C#_RockPaperScissors/main/bin/Debug/net6.0/main.dll
+/home/mark/Documents/Games/Games/C#_RockPaperScissors/main/bin/Debug/net6.0/ref/main.dll
+/home/mark/Documents/Games/Games/C#_RockPaperScissors/main/bin/Debug/net6.0/main.pdb
+/home/mark/Documents/Games/Games/C#_RockPaperScissors/main/obj/Debug/net6.0/main.csproj.AssemblyReference.cache
+/home/mark/Documents/Games/Games/C#_RockPaperScissors/main/obj/Debug/net6.0/main.GeneratedMSBuildEditorConfig.editorconfig
+/home/mark/Documents/Games/Games/C#_RockPaperScissors/main/obj/Debug/net6.0/main.AssemblyInfoInputs.cache
+/home/mark/Documents/Games/Games/C#_RockPaperScissors/main/obj/Debug/net6.0/main.AssemblyInfo.cs
+/home/mark/Documents/Games/Games/C#_RockPaperScissors/main/obj/Debug/net6.0/main.csproj.CoreCompileInputs.cache
+/home/mark/Documents/Games/Games/C#_RockPaperScissors/main/obj/Debug/net6.0/main.dll
+/home/mark/Documents/Games/Games/C#_RockPaperScissors/main/obj/Debug/net6.0/ref/main.dll
+/home/mark/Documents/Games/Games/C#_RockPaperScissors/main/obj/Debug/net6.0/main.pdb
+/home/mark/Documents/Games/Games/C#_RockPaperScissors/main/obj/Debug/net6.0/main.genruntimeconfig.cache
