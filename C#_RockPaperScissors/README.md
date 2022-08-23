@@ -1,3 +1,7 @@
-# C#_Probability_Game
-## C# game in which you have to guess numbers
-In this game you have to choose how many random numbers you have to guess. After that the code will print out the probability of your success.
+# C#_rockpaperscissors
+Rock, paper, scissors game written in C# where you play against a computer.
+<h3>Game features:</h3>
+<ul>
+  <li>The computer chooses randomly between rock, paper and scissors.</li>
+  <li>A score tracker which tracks your score and prints it at the end of the game.</li>
+</ul>
