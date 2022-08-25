@@ -9,5 +9,6 @@ int main()
     char choice[][20] = {"rock", "paper", "scissors"};
     char computer_input[10] = choice[computer_choice];
     printf(computer_input);
+    printf(computer_choice);
     return 0;
 }
