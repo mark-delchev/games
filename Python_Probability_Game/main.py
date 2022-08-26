@@ -23,6 +23,6 @@ for num in num_list:
     for guess in guess_list:
         if guess == num:
             guessed_numbers += 1
-            print(f"{guessed_numbers} number/s guessed correctly!")
+print(f"{guessed_numbers} number/s guessed correctly!")
 if num_list == guess_list:
     print("Congratulations you have guessed all the number/s!")
